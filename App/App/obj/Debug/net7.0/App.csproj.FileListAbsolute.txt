@@ -1,0 +1,4 @@
+D:\Learning\ITI_Net\Advanced C#\Day6\Lab\App\App\obj\Debug\net7.0\App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\ITI_Net\Advanced C#\Day6\Lab\App\App\obj\Debug\net7.0\App.AssemblyInfoInputs.cache
+D:\Learning\ITI_Net\Advanced C#\Day6\Lab\App\App\obj\Debug\net7.0\App.AssemblyInfo.cs
+D:\Learning\ITI_Net\Advanced C#\Day6\Lab\App\App\obj\Debug\net7.0\App.csproj.CoreCompileInputs.cache
