@@ -4,9 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace App
-{
-    internal class Category
+
+    public class Category
     {
     }
-}
+
