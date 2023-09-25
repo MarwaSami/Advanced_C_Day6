@@ -8,8 +8,8 @@ using System.Threading.Tasks;
     {
      public int Id { get; set; }
      public string Name { get; set; }
-    public event Action<ICategory> addeventcategory;
-     public void Add();
+    public event Action<ICategory> addEventcategory;
+    public void Add();
      
     }
 
